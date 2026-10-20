@@ -16,6 +16,7 @@
 
 | Project | What it is |
 |:--|:--|
+| [**moonlight-throne**](https://github.com/HoangDuong-Devs/moonlight-throne) | FireMoth's coding agent: sandboxed coder CLI with permission checks. |
 | [**Agentic_Object_Detection**](https://github.com/HoangDuong-Devs/agentic-object-detection) | GPT-4o / o1 agents steering Grounding DINO detection. |
 | [**Video-Captioning**](https://github.com/HoangDuong-Devs/video-captioning) | BLIP toolkit for image and video captioning. |
 | [**labeling-tool**](https://github.com/HoangDuong-Devs/labeling-tool) | Agent-driven data and training pipeline (early stage). |
