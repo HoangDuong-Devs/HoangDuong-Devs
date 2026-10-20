@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/profile.svg" width="100%" alt="Hi, I'm Neid (@HoangDuong-Devs): AI researcher at SoftDreams, Hanoi. AI agents, computer vision, MOT/ReID." /></p>
+<p align="center"><img src="./assets/profile.svg?v=1e234ab" width="100%" alt="Hi, I'm Neid (@HoangDuong-Devs): AI researcher at SoftDreams, Hanoi. AI agents, computer vision, MOT/ReID." /></p>
 
 <p align="center"><sub><i>Click a project to open its repo</i></sub></p>
 
