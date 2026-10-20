@@ -7,19 +7,19 @@
 | Project | What it is |
 |:--|:--|
 | [**six-eye**](https://github.com/HoangDuong-Devs/six-eye) | Multi-camera tracking with global, cross-camera IDs. |
-| [**boxmot_multicamera**](https://github.com/HoangDuong-Devs/boxmot_multicamera) | YOLOv7 + BoT-SORT with long-term ReID in Qdrant. |
+| [**boxmot_multicamera**](https://github.com/HoangDuong-Devs/boxmot-multicamera) | YOLOv7 + BoT-SORT with long-term ReID in Qdrant. |
 | [**boxmot**](https://github.com/HoangDuong-Devs/boxmot) | BoxMOT tracking with short- and long-term ReID. |
-| [**Supervision-System**](https://github.com/HoangDuong-Devs/Supervision-System) | Face recognition and ReID experiments on BoxMOT. |
-| [**Face_Alignment**](https://github.com/HoangDuong-Devs/Face_Alignment) | FastAPI service that aligns faces in videos (dlib). |
+| [**Supervision-System**](https://github.com/HoangDuong-Devs/supervision-system) | Face recognition and ReID experiments on BoxMOT. |
+| [**Face_Alignment**](https://github.com/HoangDuong-Devs/face-alignment) | FastAPI service that aligns faces in videos (dlib). |
 
 #### 🌸 AI Agents & Data Pipelines
 
 | Project | What it is |
 |:--|:--|
-| [**Agentic_Object_Detection**](https://github.com/HoangDuong-Devs/Agentic_Object_Detection) | GPT-4o / o1 agents steering Grounding DINO detection. |
-| [**Video-Captioning**](https://github.com/HoangDuong-Devs/Video-Captioning) | BLIP toolkit for image and video captioning. |
+| [**Agentic_Object_Detection**](https://github.com/HoangDuong-Devs/agentic-object-detection) | GPT-4o / o1 agents steering Grounding DINO detection. |
+| [**Video-Captioning**](https://github.com/HoangDuong-Devs/video-captioning) | BLIP toolkit for image and video captioning. |
 | [**labeling-tool**](https://github.com/HoangDuong-Devs/labeling-tool) | Agent-driven data and training pipeline (early stage). |
-| [**ChatbotRasa**](https://github.com/HoangDuong-Devs/ChatbotRasa) | Rasa NLU + Core chatbot with custom actions. |
+| [**ChatbotRasa**](https://github.com/HoangDuong-Devs/rasa-chatbot) | Rasa NLU + Core chatbot with custom actions. |
 
 #### 💎 Apps
 
